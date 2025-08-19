@@ -1,5 +1,11 @@
 # resple-converter
 
+## Dependencies
+
+```shell
+sudo apt install -y nlohmann-json3-dev
+```
+
 ## Intended use 
 
 This small toolset allows to integrate SLAM solution provided by [resple](https://github.com/ASIG-X/RESPLE) with [HDMapping](https://github.com/MapsHD/HDMapping).
